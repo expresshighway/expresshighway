@@ -1,7 +1,13 @@
 ## 💁 박윤경(Park yunkyung)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexpresshighway%2Fhit-counter&count_bg=%23ACDEFF&title_bg=%2391D1FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub followers](https://img.shields.io/github/followers/expresshighway?style=social)
-## 🏗️ Language & Tool
+<br>
+### ☎️ Contact me
+📫 **my e-mail** 03wow22@gmail.com
+<br>
+📦 **my blog** https://expresshighway.tistory.com
+
+### 🏗️ Language & Tool
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-FF8000?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-04B404?style=flat-square&logo=Kotlin&logoColor=white"/></a>
